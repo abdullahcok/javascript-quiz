@@ -50,6 +50,6 @@ function check(){
   	document.getElementById("after_submit").style.visibility = "visible";
 
   	document.getElementById("message").innerHTML = messages[score];
-  	document.getElementById("correct_answer_number").innerHTML = "You got " + correct + " correct.";
+  	document.getElementById("correct_answer_number").innerHTML = "Hey " +name+ "! You got " + correct + " correct.";
   	document.getElementById("picture").src = pictures[score];
 }
