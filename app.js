@@ -13,10 +13,10 @@ function check(){
 
   	if (question1 == "Mustafa Kemal Atatürk") {
   		correct++;
-  }
+    }
   	if (question2 == "Ankara") {
   		correct++;
-  }
+    }
   	if (question3 == "1923") {
   		correct++;
   	}
